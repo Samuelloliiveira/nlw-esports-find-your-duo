@@ -211,6 +211,7 @@ export function CreateAdModal() {
     )
 }
 
+// YourDuo
 // Criar carrossel - Trazer os game da api da Twitch
 // Responsivo
 // Melhorar os select em questão de CSS
